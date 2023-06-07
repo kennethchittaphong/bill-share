@@ -18,5 +18,14 @@ a {
 }
 
 body {
-  background-color: #88effd;
+  background-color: white;
 }
+
+.btn-primary {
+  background-color: #09be1e;
+}
+
+.btn-primary:hover {
+  background-color: #7dee8a;
+}
+
